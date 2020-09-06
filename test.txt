@@ -1,2 +1,5 @@
 challecara-git
 branchを使ってみた
+1回目のcommit
+2回目のcommit
+3回目のcommit
