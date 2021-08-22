@@ -1,5 +1,6 @@
 コード1
-branch-Bでの変更箇所その1
+branch-Cでの変更箇所1
+branch-Cでの追加箇所1
 コード2
-branch-Bでの変更箇所その2
+branch-Cでの変更箇所2
 コード3
